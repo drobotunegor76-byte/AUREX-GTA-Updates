@@ -1,7 +1,7 @@
 {
-    "launcher_version":  "2.2.11.0",
+    "launcher_version":  "2.2.12.0",
     "launcher_url":  "https://github.com/drobotunegor76-byte/AUREX-GTA-Updates/releases/latest/download/AUREX_GTA_Update.exe",
-    "launcher_sha256":  "0374176221AEFAC0A9F94E333E5A7A5C73F2553397316ACB1FF4FD5770900B7D",
+    "launcher_sha256":  "3A2E52EAC85375C614E5C4C632C3AFC8D10BEA090CA7138B4B0EBD7F998A8C86",
     "game_url":  "https://staffrp.cdn.express/~/share/4dc549b39190/game.zip",
     "game_version":  "4.2.1",
     "game_size":  4222744560
